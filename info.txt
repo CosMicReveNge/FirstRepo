@@ -1,2 +1,8 @@
+First you create a folder and initialise with git ( type git init)
 
+Now git knows about the folder and the files in it but they are not yet committed (untracked files)
 
+Then use the add command to get the file into the staging environment(ready to be committed)
+(Use git add --all if more than one file to be added)
+
+Now, the file is ready to be committed (git commit -m "message")
