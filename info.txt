@@ -15,3 +15,9 @@ Steps:
 5. git commit -m "message"
 6. git remote add origin https...
 7. git push -u origin main
+
+fork-create a copy of a project on your github acc ( on the remote server)
+clone- copying the whole project on your computer (local server)
+        done when you want to work on something without requiring internet
+branch- everyone can work on a project in different branches without affecting
+        each others work so it can be later collaborated.
