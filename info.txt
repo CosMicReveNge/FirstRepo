@@ -7,3 +7,11 @@ Then use the add command to get the file into the staging environment(ready to b
 
 Now, the file is ready to be committed (git commit -m "message")
 
+Steps:
+1. cd to ur folder
+2. git init
+3. type your changes
+4. git add .
+5. git commit -m "message"
+6. git remote add origin https...
+7. git push -u origin main
